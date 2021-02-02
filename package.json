@@ -1,0 +1,23 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "\"api for a video rental service\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAbaidoo/vidly-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAbaidoo/vidly-api/issues"
+  },
+  "homepage": "https://github.com/KAbaidoo/vidly-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
